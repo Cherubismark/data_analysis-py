@@ -63,16 +63,16 @@ First 5 rows of the dataset:
 
 ### Visualizations:
 1. **Bar Chart**: Average petal length by species  
-   ![Bar Chart Example](path/to/bar_chart_image.png)
+   ![Bar Chart Example](/home/ckoskei/Desktop/plp/python/week7/Figure_1.png)
 
 2. **Scatter Plot**: Sepal length vs. Petal length  
-   ![Scatter Plot Example](path/to/scatter_plot_image.png)
+   ![Scatter Plot Example](/home/ckoskei/Desktop/plp/python/week7/Figure_2.png)
 
 3. **Histogram**: Distribution of sepal length  
-   ![Histogram Example](path/to/histogram_image.png)
+   ![Histogram Example](/home/ckoskei/Desktop/plp/python/week7/Figure_3.png)
 
 4. **Line Chart**: Petal length trends  
-   ![Line Chart Example](path/to/line_chart_image.png)
+   ![Line Chart Example](/home/ckoskei/Desktop/plp/python/week7/Figure_4.png)
 
 ## Dataset
 
